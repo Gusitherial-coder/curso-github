@@ -1,5 +1,5 @@
-nombre = "Gusi Great"
-apellido = "TheRial"
+nombre = "Pepe Dalto"
+apellido = "TherRial"
 
 saludo = "Hola, mi nombre es " + nombre + " " + apellido + " y estoy aprendiendo GitHub."
 print(saludo)
